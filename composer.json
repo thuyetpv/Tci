@@ -15,5 +15,13 @@
         "files": [
             "registration.php"
         ]
+    },
+    "extra": {
+        "map": [
+            [
+                "*",
+                "Tci/Gridthumbs"
+            ]
+        ]
     }
 }
